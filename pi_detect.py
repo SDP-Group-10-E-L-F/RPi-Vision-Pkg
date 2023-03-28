@@ -11,7 +11,7 @@ batch_size = 32
 img_height = 400
 img_width = 400
 
-TF_MODEL_FILE_PATH = 'TFlite_Models/model0.tflite'
+TF_MODEL_FILE_PATH = 'TFlite_Models/model1.tflite'
 interpreter = tf.lite.Interpreter(model_path=TF_MODEL_FILE_PATH)
 print(f"Signature list : {interpreter.get_signature_list()}")
 
