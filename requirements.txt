@@ -1,0 +1,6 @@
+numpy~=1.23.5
+tensorflow~=2.11.0
+mediapipe~=0.9.1.0
+imutils~=0.5.4
+opencv-python~=4.7.0.68
+pillow~=9.4.0
